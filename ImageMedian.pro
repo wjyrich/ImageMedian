@@ -23,3 +23,10 @@ HEADERS  += mainwindow.h \
     graphicsviewex.h
 
 FORMS    += mainwindow.ui
+target.path = $$PREFIX/bin
+desktop.files = ImageMedian.desktop
+desktop.path = $$PREFIX/share/applications/
+icons.path = $$PREFIX/share/icons/hicolor/apps/
+icons.files = ImageMedian.png
+
+INSTALLS += target desktop icons

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=ImageMedian
+Name=ImageMedian
+Name[zh_CN]=ImageMedian
+Icon=ImageMedian
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=ImageMedian
+Version=1.0
